@@ -1,6 +1,6 @@
 # 📚 Atividade Prática – Engenharia de Requisitos ( Projeto/Atividade)
 
-## rstudo de Caso: Sistema de Atendimento e Agendamento da Clínica Vida+ Saúde
+## Estudo de Caso: Sistema de Atendimento e Agendamento da Clínica Vida+ Saúde
 
 **Disciplina:** Engenharia de Requisitos
 **Curso:** Engenharia de Software
